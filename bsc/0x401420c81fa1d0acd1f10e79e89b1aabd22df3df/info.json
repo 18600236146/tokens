@@ -1,0 +1,12 @@
+{
+  "name": "MSKR",
+  "symbol": "MSKR",
+  "decimals": 18,
+  "totalSupply": "8000000",
+  "website": "https://www.mskr.org/",
+  "social": {
+    "twitter": "",
+    "telegram": ""
+  },
+  "explorer": "https://bscscan.com/token/0x401420c81fa1d0acd1f10e79e89b1aabd22df3df"
+}
